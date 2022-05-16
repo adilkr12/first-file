@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employeetable>
+<id>
+10234
+</id>
+<name>
+salman
+</name>
+<salary>
+5000
+</salary>
+<date>
+2-2-2015
+</date>
+<position>
+manager
+</position>
+</employeetable>
